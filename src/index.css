@@ -1,26 +1,12 @@
-:root {
-  font-family: Arial, Helvetica, sans-serif;
-  color: #222;
-  background: #f5f5f5;
-}
-
 body {
+  font-family: Arial, sans-serif;
   margin: 0;
 }
 
 main {
-  max-width: 600px;
-  margin: 60px auto;
-  padding: 24px;
-  border-radius: 8px;
-  background: white;
-  box-shadow: 0 2px 8px #0000001a;
-}
-
-h1 {
-  margin-top: 0;
+  margin: 40px;
 }
 
 li {
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
